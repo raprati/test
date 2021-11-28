@@ -1,0 +1,9 @@
+#!/bin/bash
+echo " the fabnoccis series :"
+for (( i=0; i<n; i++ ))
+d0
+echo -n "$a"
+fn = $ ((a+b))
+a = $b
+b = $fn
+done
